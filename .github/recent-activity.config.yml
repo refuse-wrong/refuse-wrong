@@ -1,0 +1,11 @@
+settings:
+  commit_msg: "chore: update recent GitHub activity"
+  max_lines: 8
+  readme_file: "./README.md"
+  disabled_events:
+    - "comments"
+  url_text: "{REPO}{ID}"
+  date:
+    timezone: "Asia/Tokyo"
+    text: "Last updated: {DATE}"
+    format: "yyyy-mm-dd HH:MM"
