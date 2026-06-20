@@ -206,9 +206,9 @@ I use my blog to organize technical notes, project records and learning summarie
 
 <img src="https://streak-stats.demolab.com?user=refuse-wrong&theme=tokyonight&hide_border=true" />
 
-<br/>
+<!-- <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=refuse-wrong&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="98%" />
+<img src="https://github-profile-trophy.vercel.app/?username=refuse-wrong&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="98%" /> -->
 
 </div>
 
